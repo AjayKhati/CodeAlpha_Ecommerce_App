@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768169270971",
+    "project_id": "ecommerce-app-internship",
+    "storage_bucket": "ecommerce-app-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768169270971:android:77bf0737a39dedbe76d39e",
+        "android_client_info": {
+          "package_name": "com.ajkhati.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLICfr3Zpmr0thLx2qLTcGF2J0B0C4tdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
